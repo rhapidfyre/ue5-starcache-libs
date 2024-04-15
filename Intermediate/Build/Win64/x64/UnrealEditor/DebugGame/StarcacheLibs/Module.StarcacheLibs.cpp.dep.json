@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\talesdungeoneer\\plugins\\starcachelibs\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\starcachelibs\\module.starcachelibs.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\talesdungeoneer\\intermediate\\build\\win64\\x64\\talesdungeoneereditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.cpp17.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "d:\\projects\\talesdungeoneer\\plugins\\starcachelibs\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\starcachelibs\\definitions.starcachelibs.h",
+            "d:\\projects\\talesdungeoneer\\plugins\\starcachelibs\\source\\starcachelibs\\private\\starcachelibs.cpp",
+            "d:\\projects\\talesdungeoneer\\plugins\\starcachelibs\\source\\starcachelibs\\public\\starcachelibs.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
