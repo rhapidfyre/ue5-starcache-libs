@@ -275,6 +275,7 @@
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\WidgetRegistration\UHT"
 /I "Developer\WidgetRegistration\Public"
 /I "Runtime\Windows"
+/I "D:\Projects\TalesDungeoneer\Plugins\StarcacheLibs\Intermediate\Build\Win64\UnrealEditor\Inc\StarcacheLibs\UHT"
 /I "D:\Projects\TalesDungeoneer\Plugins\StarcacheLibs\Source"
 /I "D:\Projects\TalesDungeoneer\Plugins\StarcacheLibs\Source\StarcacheLibs\Public"
 /external:W0
