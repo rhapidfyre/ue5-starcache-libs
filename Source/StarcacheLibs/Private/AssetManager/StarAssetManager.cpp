@@ -64,9 +64,9 @@ bool UStarAssetManager::LoadDataAsset(const FPrimaryAssetId& AssetId)
 /**
  * Takes in a soft object pointer, loading the actor and broadcasting on
  * the delegate that is given upon successful load.
- * @param ActorSoftPtr The soft pointer for the actor to load
- * @param ActorLoadedDelegate The delegate to fire when async load is successful
- * @return False if there were any problems with the pointer
+ * \param ActorSoftPtr The soft pointer for the actor to load
+ * \param ActorLoadedDelegate The delegate to fire when async load is successful
+ * \return False if there were any problems with the pointer
  */
 void UStarAssetManager::LoadActorFromSoftPtr(TSoftObjectPtr<AActor> ActorSoftPtr,
 	FActorLoadedDelegate& ActorLoadedDelegate)
