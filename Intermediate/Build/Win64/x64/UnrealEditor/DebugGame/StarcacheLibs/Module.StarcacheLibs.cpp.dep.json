@@ -1,0 +1,32 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\talesdungeoneer\\plugins\\starcachelibs\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\starcachelibs\\module.starcachelibs.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\talesdungeoneer\\intermediate\\build\\win64\\x64\\talesdungeoneereditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.cpp17.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "d:\\projects\\talesdungeoneer\\plugins\\starcachelibs\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\starcachelibs\\definitions.starcachelibs.h",
+            "d:\\projects\\talesdungeoneer\\plugins\\starcachelibs\\intermediate\\build\\win64\\unrealeditor\\inc\\starcachelibs\\uht\\starassetmanager.gen.cpp",
+            "d:\\projects\\talesdungeoneer\\plugins\\starcachelibs\\source\\starcachelibs\\public\\assetmanager\\starassetmanager.h",
+            "d:\\projects\\talesdungeoneer\\plugins\\starcachelibs\\intermediate\\build\\win64\\unrealeditor\\inc\\starcachelibs\\uht\\starassetmanager.generated.h",
+            "d:\\projects\\talesdungeoneer\\plugins\\starcachelibs\\intermediate\\build\\win64\\unrealeditor\\inc\\starcachelibs\\uht\\starcachelibs.init.gen.cpp",
+            "d:\\projects\\talesdungeoneer\\plugins\\starcachelibs\\source\\starcachelibs\\private\\assetmanager\\starassetmanager.cpp",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\assetmanager.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\assetmanagertypes.h",
+            "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\assetmanagertypes.generated.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\misc\\assetregistryinterface.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\streamablemanager.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\assetregistrymodule.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\iassetregistry.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\assetregistry\\uht\\iassetregistry.generated.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\genericplatform\\genericplatformchunkinstall.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\contentencryptionconfig.h",
+            "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\assetmanager.generated.h",
+            "d:\\projects\\talesdungeoneer\\plugins\\starcachelibs\\source\\starcachelibs\\private\\starcachelibs.cpp",
+            "d:\\projects\\talesdungeoneer\\plugins\\starcachelibs\\source\\starcachelibs\\public\\starcachelibs.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.StarcacheLibs.cpp.obj": [
+			"StarcacheLibs.cpp.obj"
+		]
+	}
+}

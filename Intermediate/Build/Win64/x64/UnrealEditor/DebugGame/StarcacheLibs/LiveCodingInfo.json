@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.StarcacheLibs.cpp.obj": [
+			"StarAssetManager.gen.cpp.obj",
+			"StarcacheLibs.init.gen.cpp.obj",
+			"StarAssetManager.cpp.obj",
+			"StarcacheLibs.cpp.obj"
+		]
+	}
+}
